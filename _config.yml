@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - index.md
+  - home.md
   - about.md
 
 footer: "follow me on <a href='https://twitter.com/p14nk70n/'>twitter</a>"
