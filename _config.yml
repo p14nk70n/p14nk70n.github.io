@@ -38,7 +38,7 @@ header_pages:
   - index.md
   - about.md
 
-footer: "follow me on <a href='https://twitter.com/p14nk70n/'>twitter</a>
+footer: "follow me on <a href='https://twitter.com/p14nk70n/'>twitter</a>"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
