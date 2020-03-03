@@ -1,5 +1,5 @@
 ---
-title: p14nk70n@karen:/about
+title: /about
 layout: page
 permalink: /about
 ---
