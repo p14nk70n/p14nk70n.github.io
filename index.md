@@ -1,5 +1,5 @@
 ---
-title: /
+title: p14nk70n@karen:/
 layout: home
 permalink: /
 ---
