@@ -33,10 +33,12 @@ github_username:  p14nk70n
 remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
-  
- header_pages:
+
+header_pages:
   - index.md
   - about.md
+
+footer: "follow me on <a href='https://twitter.com/p14nk70n/'>twitter</a>
 
 # Exclude from processing.
 # The following items will not be processed, by default.
