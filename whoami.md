@@ -11,6 +11,6 @@ I am **p14nk70n**, and I do:
 <br>
 Got some degrees. 
 <br>
-Got my OSCP.
+Got the OSCP.
 <br>
 Continuing to learn.
