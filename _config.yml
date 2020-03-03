@@ -36,7 +36,7 @@ plugins:
 
 header_pages:
   - home.md
-  - about.md
+  - whoami.md
 
 footer: "follow me on <a href='https://twitter.com/p14nk70n/'>twitter</a>"
 
