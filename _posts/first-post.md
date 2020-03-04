@@ -1,5 +1,5 @@
 ---
-title: /first-post
+title: /posts/first-post
 layout: post
 permalink: /posts/first-post
 ---
