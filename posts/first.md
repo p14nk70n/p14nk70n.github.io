@@ -1,7 +1,7 @@
 ---
-title: /posts/first-post
+title: /posts/first
 layout: post
-permalink: /posts/first-post
+permalink: /posts/first
 ---
 
 # I am here!
